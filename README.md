@@ -7,3 +7,5 @@ pip install pywin32
 ## USAGE
 python remove_excel_password.py <directory_path> <password>
 
+## Actual need of this tool
+When we have numerous password-protected .xls files that need to be sent to clients by removing the passwords, manually doing this becomes time-consuming.  
